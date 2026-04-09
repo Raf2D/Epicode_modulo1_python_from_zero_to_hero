@@ -13,3 +13,5 @@ while numero <= 0 :
 
     if numero > 0 : 
         print("Hai inserito il numero positivo maggiore di 0: ", numero)
+
+
