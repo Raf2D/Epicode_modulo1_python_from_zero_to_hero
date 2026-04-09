@@ -5,3 +5,4 @@ Modulo 1 : Python from zero to hero.
 - 2_esercizi_e_sorgenti_casting: contiene i 3 esercizi del video della lezione "Casting" ;
 - 3_esercizi_e_sorgenti_stringhe: contiene i 2 esercizi della lezione "Stringhe e Operazioni" ;
 - 4_esercizi_e_sorgenti_boolean: contiene i 2 esercizi della lezione "Boolean" ;
+- 5_esercizi_op_aritmetiche_e_matematiche: contiene gli esercizi della lezione "Operazioni aritmetiche e matematiche" ;
