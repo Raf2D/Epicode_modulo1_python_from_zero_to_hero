@@ -6,3 +6,4 @@ Modulo 1 : Python from zero to hero.
 - 3_esercizi_e_sorgenti_stringhe: contiene i 2 esercizi della lezione "Stringhe e Operazioni" ;
 - 4_esercizi_e_sorgenti_boolean: contiene i 2 esercizi della lezione "Boolean" ;
 - 5_esercizi_op_aritmetiche_e_matematiche: contiene gli esercizi della lezione "Operazioni aritmetiche e matematiche" ;
+- 6_esercizi_e_sorgenti_IF_ELSEIF_ELSE: contiene gli esercizi della lezione "Condizioni IF, ELSEIF e ELSE ;
