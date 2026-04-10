@@ -9,3 +9,4 @@ Modulo 1 : Python from zero to hero.
 - 6_esercizi_e_sorgenti_IF_ELSEIF_ELSE: contiene gli esercizi della lezione "Condizioni IF, ELSEIF e ELSE" ;
 - 7_esercizi_ciclo_while: contiene 2 file, 1 l'esercizio della lezione "Ciclo While" e 2 per l'esercizio di fine lezione "Esercizi Ciclo While" ;
 - 8_esercizi_e_sorgenti_ciclo_for: contiene l'esercizio della lezione "Ciclo FOR" ;
+- 9_esercizi_e_sorgenti_le_liste: contiene l'esercizio della lezione "Le liste" ;
