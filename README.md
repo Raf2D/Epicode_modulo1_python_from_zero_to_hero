@@ -11,3 +11,4 @@ Modulo 1 : Python from zero to hero.
 - 08_esercizi_e_sorgenti_ciclo_for: contiene l'esercizio della lezione "Ciclo FOR" ;
 - 09_esercizi_e_sorgenti_le_liste: contiene l'esercizio della lezione "Le liste" ;
 - 10_esercizi_e_sorgenti_tuple: contiene l'esrcizio della lezione "Tuple" ;
+- 11_esercizi_e_sorgenti_List_Tuple_Set_Dict: contiene gli esercizi delle lezioni "I Set" e "I Dizionari" ;
