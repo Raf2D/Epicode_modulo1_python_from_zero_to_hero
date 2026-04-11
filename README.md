@@ -10,3 +10,4 @@ Modulo 1 : Python from zero to hero.
 - 7_esercizi_ciclo_while: contiene 2 file, 1 l'esercizio della lezione "Ciclo While" e 2 per l'esercizio di fine lezione "Esercizi Ciclo While" ;
 - 8_esercizi_e_sorgenti_ciclo_for: contiene l'esercizio della lezione "Ciclo FOR" ;
 - 9_esercizi_e_sorgenti_le_liste: contiene l'esercizio della lezione "Le liste" ;
+- 10_esercizi_e_sorgenti_tuple: contiene l'esrcizio della lezione "Tuple" ;
