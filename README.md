@@ -13,3 +13,4 @@ Modulo 1 : Python from zero to hero.
 - 10_esercizi_e_sorgenti_tuple: contiene l'esrcizio della lezione "Tuple" ;
 - 11_esercizi_e_sorgenti_List_Tuple_Set_Dict: contiene gli esercizi delle lezioni "I Set" e "I Dizionari" ;
 - 12_esercizi_funzioni: contiene l'esercizio della lezione "Funzioni" ;
+- 13_esercizi_classi_1: contiene l'esercizio della lezione "Il Concetto di Oggetto" ;
