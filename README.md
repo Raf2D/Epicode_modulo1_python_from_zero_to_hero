@@ -15,3 +15,4 @@ Modulo 1 : Python from zero to hero.
 - 12_esercizi_funzioni: contiene l'esercizio della lezione "Funzioni" ;
 - 13_esercizi_classi_1: contiene l'esercizio della lezione "Il Concetto di Oggetto" ;
 - 14_esercizi_classi_2: contiene l'esercizio della lezione "L'incapsulamento e la Generalizzazione" ;
+- 15_attributi_e_metodi_di_classe: contiene l'esercizio della lezione "Attributi e metodi di classe" ;
