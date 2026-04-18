@@ -16,4 +16,5 @@ Modulo 1 : Python from zero to hero.
 - 13_esercizi_classi_1: contiene l'esercizio della lezione "Il Concetto di Oggetto" ;
 - 14_esercizi_classi_2: contiene l'esercizio della lezione "L'incapsulamento e la Generalizzazione" ;
 - 15_attributi_e_metodi_di_classe: contiene l'esercizio della lezione "Attributi e metodi di classe" ;
-- 16_attributi_e_metodi_di_istanza: contiene l'esrcizio della lezione "Attributi e metodi di istanza" ;
+- 16_attributi_e_metodi_di_istanza: contiene l'esercizio della lezione "Attributi e metodi di istanza" ;
+- 17_metodi_speciali_init_str: contiene l'esercizio della lezione "Metodi speciali (__init__, __str__)" ;
