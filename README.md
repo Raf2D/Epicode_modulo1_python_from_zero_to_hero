@@ -19,3 +19,4 @@ Modulo 1 : Python from zero to hero.
 - 16_attributi_e_metodi_di_istanza: contiene l'esercizio della lezione "Attributi e metodi di istanza" ;
 - 17_metodi_speciali_init_str: contiene l'esercizio della lezione "Metodi speciali (__init__, __str__)" ;
 - 18_variabili_di_classe_vs_istanza: contiene l'esercizio della lezione "Variabili di classe vs istanza" ;
+- 20_ereditarieta: contiene l'esercizio della lezione "Ereditarietà" ;
