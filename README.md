@@ -21,3 +21,4 @@ Modulo 1 : Python from zero to hero.
 - 18_variabili_di_classe_vs_istanza: contiene l'esercizio della lezione "Variabili di classe vs istanza" ;
 - 20_ereditarieta: contiene l'esercizio della lezione "Ereditarietà" ;
 - 21_polimorfismo: contiene l'esercizio della lezione "Polimorfismo" ;
+- 22_classi_astratte: contiene l'esercizio della lezione "Classi Astratte" ;
