@@ -22,3 +22,4 @@ Modulo 1 : Python from zero to hero.
 - 20_ereditarieta: contiene l'esercizio della lezione "Ereditarietà" ;
 - 21_polimorfismo: contiene l'esercizio della lezione "Polimorfismo" ;
 - 22_classi_astratte: contiene l'esercizio della lezione "Classi Astratte" ;
+- 23_decoratori_di_classe_e_property: contiene l'esercizio della lezione "Decoratori di classe e Property Decorators" ;
