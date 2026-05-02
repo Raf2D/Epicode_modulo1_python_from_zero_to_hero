@@ -25,3 +25,4 @@ Modulo 1 : Python from zero to hero.
 - 23_decoratori_di_classe_e_property: contiene l'esercizio della lezione "Decoratori di classe e Property Decorators" ;
 - 24_Operator_overloading: contiene l'esercizio della lezione "Operator overloading" ;
 - 25_gestione_delle_eccezioni: contiene l'esercizio della lezione "Gestione delle eccezioni" ;
+- 26_eccezioni_personalizzate: contiene l'esercizio della lezione "Eccezioni personalizzate" ;
