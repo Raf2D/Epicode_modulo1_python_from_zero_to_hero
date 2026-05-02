@@ -20,6 +20,7 @@ class Prodotto:
     
 
 class MagazzinoError(Exception):
+    """Classe base per tutti gli errori del Magazzino."""
     pass
 
 class QuantitaInvalidaError(MagazzinoError):
