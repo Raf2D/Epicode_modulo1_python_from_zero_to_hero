@@ -27,3 +27,4 @@ Modulo 1 : Python from zero to hero.
 - 25_gestione_delle_eccezioni: contiene l'esercizio della lezione "Gestione delle eccezioni" ;
 - 26_eccezioni_personalizzate: contiene l'esercizio della lezione "Eccezioni personalizzate" ;
 - 27_imput_output: contiene l'esercizio della lezione "Input Output" ;
+- 28_lettura_e_scrittura_file: contiene l'esercizio della lezione "Lettura e scrittura di file" ;
