@@ -28,3 +28,4 @@ Modulo 1 : Python from zero to hero.
 - 26_eccezioni_personalizzate: contiene l'esercizio della lezione "Eccezioni personalizzate" ;
 - 27_imput_output: contiene l'esercizio della lezione "Input Output" ;
 - 28_lettura_e_scrittura_file: contiene l'esercizio della lezione "Lettura e scrittura di file" ;
+- 29_lettura_di_file_CSV: contiene l'esercizio della lezione "Lettura di file CSV" ;
