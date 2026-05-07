@@ -1,0 +1,42 @@
+Progetto 1
+Progetto: Gestione Biblioteca Digitale
+Traccia
+In una biblioteca digitale si vuole realizzare un piccolo sistema software per gestire libri, utenti e prestiti.
+Il programma deve sfruttare variabili, tipi di dati, strutture di controllo e soprattutto la programmazione orientata agli oggetti (OOP).
+ Consegna 
+Parte 1 – Variabili e tipi di dati
+1.	Dichiarare e stampare alcune variabili di esempio:
+2.	Titolo di un libro (stringa)
+3.	Numero di copie disponibili (intero)
+4.	Prezzo medio di un libro (float)
+5.	Stato "disponibile/non disponibile" (booleano)(Esempio: titolo = "Il Signore degli Anelli", copie = 5, ecc.)
+Parte 2 – Strutture dati
+1.	Creare una lista con almeno 5 titoli di libri.
+2.	Creare un dizionario che mappi il titolo del libro al numero di copie disponibili.
+3.	Creare un insieme (set) che contenga tutti gli utenti registrati alla biblioteca.
+Parte 3 – Classi e OOP
+1.	Creare una classe Libro con attributi:
+2.	titolo
+3.	autore
+4.	anno
+5.	copie_disponibili
+Aggiungere un metodo info() che restituisca una stringa descrittiva del libro.
+1.	Creare una classe Utente con attributi:
+2.	nome
+3.	eta
+4.	id_utente
+Aggiungere un metodo scheda() che stampi i dati dell’utente.
+1.	Creare una classe Prestito che colleghi un Utente a un Libro e contenga:
+2.	utente (oggetto Utente)
+3.	libro (oggetto Libro)
+4.	giorni (numero di giorni del prestito)
+Aggiungere un metodo dettagli() che stampi tutte le informazioni sul prestito.
+Parte 4 – Funzionalità
+1.	Creare una funzione presta_libro(utente, libro, giorni) che:
+2.	Verifichi se il libro ha almeno 1 copia disponibile
+3.	Se sì → riduca il numero di copie e crei un nuovo oggetto Prestito
+4.	Se no → stampi un messaggio di errore
+5.	Simulare almeno 3 prestiti con utenti e libri diversi.
+6.	Stampare a video:
+•	L’elenco aggiornato delle copie disponibili per ciascun libro
+•	I dettagli di ogni prestito effettuato
