@@ -19,6 +19,7 @@ Modulo 1 : Python from zero to hero.
 - 16_attributi_e_metodi_di_istanza: contiene l'esercizio della lezione "Attributi e metodi di istanza" ;
 - 17_metodi_speciali_init_str: contiene l'esercizio della lezione "Metodi speciali (__init__, __str__)" ;
 - 18_variabili_di_classe_vs_istanza: contiene l'esercizio della lezione "Variabili di classe vs istanza" ;
+- 19_incapsulamento: contiene esercizio sull' Incapsulamento ;
 - 20_ereditarieta: contiene l'esercizio della lezione "Ereditarietà" ;
 - 21_polimorfismo: contiene l'esercizio della lezione "Polimorfismo" ;
 - 22_classi_astratte: contiene l'esercizio della lezione "Classi Astratte" ;
@@ -30,3 +31,4 @@ Modulo 1 : Python from zero to hero.
 - 28_lettura_e_scrittura_file: contiene l'esercizio della lezione "Lettura e scrittura di file" ;
 - 29_lettura_di_file_CSV: contiene l'esercizio della lezione "Lettura di file CSV" ;
 - 30_progetto_1: contiene il progetto_1 "Biblioteca" ;
+- 31_best_pratics_per_organizzare_codice_e_progetti: contiene l'esercizio della lezione "Best practics per organizzare codice e progetti ;
