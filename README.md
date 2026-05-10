@@ -31,4 +31,5 @@ Modulo 1 : Python from zero to hero.
 - 28_lettura_e_scrittura_file: contiene l'esercizio della lezione "Lettura e scrittura di file" ;
 - 29_lettura_di_file_CSV: contiene l'esercizio della lezione "Lettura di file CSV" ;
 - 30_progetto_1: contiene il progetto_1 "Biblioteca" ;
-- 31_best_pratics_per_organizzare_codice_e_progetti: contiene l'esercizio della lezione "Best practics per organizzare codice e progetti ;
+- 31_best_pratics_per_organizzare_codice_e_progetti: contiene l'esercizio della lezione "Best practics per organizzare codice e progetti" ;
+- 32_come_le_librerie_si_integrano_tra_loro: contiene l'esercizio della lezione "Come le librerie si integrano tra loro" ;
