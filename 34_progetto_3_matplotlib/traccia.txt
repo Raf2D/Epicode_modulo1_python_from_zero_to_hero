@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------------------
+PROGETTO 3 - modulo MATPLOTLIB
+--------------------------------------------------------------------------------------------
+Progetto d’Esame – Analisi di un Sistema di Prenotazione Viaggi
+
+Scenario Reale
+
+Un’agenzia di viaggi online vuole realizzare un sistema informatico per gestire le prenotazioni dei clienti.Il sistema deve permettere di:
+
+memorizzare le informazioni dei clienti e dei viaggi prenotati,calcolare statistiche sulle vendite,
+analizzare i dati con strumenti avanzati,visualizzare i risultati in forma grafica.
+
+ConsegnA (da svolgere in Python)
+
+Parte 1 – Variabili e Tipi di Dati
+
+Definisci variabili per rappresentare le seguenti informazioni di un cliente:nome (stringa),età (intero),
+saldo conto (float),stato VIP (booleano).✅ 
+Esempio: nome = "Mario Rossi", eta = 34, saldo = 2500.75, vip = TrueCrea una lista di destinazioni disponibili (almeno 5 città).
+Definisci un dizionario che associa ogni destinazione a un prezzo medio del viaggio.
+
+Parte 2 – Programmazione ad Oggetti (OOP)
+
+Crea una classe Cliente con attributi: nome, età, vip.
+Aggiungi un metodo per stampare le informazioni.
+Crea una classe Viaggio con attributi: destinazione, prezzo, durata in giorni.
+Crea una classe Prenotazione che colleghi un cliente a un viaggio.
+Deve calcolare l’importo finale, con sconto del 10% se il cliente è VIP.
+Aggiungi un metodo dettagli() che stampa le informazioni complete.
+
+Parte 3 – NumPy
+
+Genera un array NumPy di 100 prenotazioni simulate, con prezzi casuali fra 200 e 2000 €.
+Calcola e stampa:prezzo medio,prezzo minimo e massimo,deviazione standard,percentuale di prenotazioni sopra la media.
+
+Parte 4 – Pandas
+
+Crea un DataFrame Pandas con colonne:Cliente, Destinazione, Prezzo, Giorno_Partenza, Durata, Incasso.
+Calcola con Pandas:incasso totale dell’agenzia,incasso medio per destinazione,top 3 destinazioni più vendute.
+
+Parte 5 – Matplotlib
+
+Crea un grafico a barre che mostri l’incasso per ogni destinazione.
+Crea un grafico a linee che mostri l’andamento giornaliero degli incassi.
+Crea un grafico a torta che mostri la percentuale di vendite per ciascuna destinazione.
+
+Parte 6 – Analisi Avanzata
+
+Raggruppa i viaggi in categorie:
+
+"Europa", "Asia", "America", "Africa".(Puoi usare un dizionario che associa ogni destinazione a una categoria).
+
+Calcola con Pandas:incasso totale per categoria,durata media dei viaggi per categoria.
+Salva il DataFrame aggiornato in un CSV chiamato prenotazioni_analizzate.csv.
+
+Parte 7 – Estensioni
+
+Crea una funzione che restituisce i N clienti con più prenotazioni.
+Realizza un grafico combinato (barre + linea) che mostri:barre = incasso medio per categoria,linea = durata media per categoria.
