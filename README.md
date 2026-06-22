@@ -33,4 +33,5 @@ Modulo 1 : Python from zero to hero.
 - 30_progetto_1: contiene il progetto_1 "Biblioteca" ;
 - 31_best_pratics_per_organizzare_codice_e_progetti: contiene l'esercizio della lezione "Best practics per organizzare codice e progetti" ;
 - 32_come_le_librerie_si_integrano_tra_loro: contiene l'esercizio della lezione "Come le librerie si integrano tra loro" ;
-- 33_progetto_NumPy: contiene l'esercizio del progetto numero 2 del modulto che riguarda NumPy. 
+- 33_progetto_NumPy: contiene l'esercizio del progetto numero 2 del modulto che riguarda NumPy ;
+- 34_progetto_3_matplotlib: contiene il progetto 3 del modulo Matplotlib ;
